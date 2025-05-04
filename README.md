@@ -1,6 +1,6 @@
-# [Transparent panels - A Cinnamon extension][repo]
+# [Transparent Panels - A Cinnamon Extension][repo]
 
-Transparentize your panels when there are no any maximized windows
+This extension will transparentize your panels when no windows are maximized.
 
 [![Screenshot](screenshot.png)][repo]
 
